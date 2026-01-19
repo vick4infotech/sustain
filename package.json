@@ -9,9 +9,6 @@
     "db:migrate": "node ./db/scripts/migrate.mjs",
     "db:reset": "node ./db/scripts/reset.mjs"
   },
-  "engines": {
-    "node": ">=20.9.0"
-  },
   "dependencies": {
     "better-sqlite3": "12.6.0",
     "next": "16.1.2",
