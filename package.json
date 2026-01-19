@@ -10,7 +10,7 @@
     "db:reset": "node ./db/scripts/reset.mjs"
   },
     "engines": {
-    "node": ">=20.9.0"
+    "node": "20.9.0"
   },
   "dependencies": {
     "better-sqlite3": "12.6.0",
